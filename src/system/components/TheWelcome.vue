@@ -20,4 +20,13 @@ import WelcomeItem from './WelcomeItem.vue'
 
     text text
   </WelcomeItem>
+
+  <WelcomeItem>
+    <template #icon>
+      3
+    </template>
+    <template #heading>Three</template>
+
+    text text
+  </WelcomeItem>
 </template>
