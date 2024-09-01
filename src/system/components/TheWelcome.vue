@@ -11,22 +11,4 @@ import WelcomeItem from './WelcomeItem.vue'
 
     text
   </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
-      2
-    </template>
-    <template #heading>Two</template>
-
-    text text
-  </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
-      3
-    </template>
-    <template #heading>Three</template>
-
-    text text
-  </WelcomeItem>
 </template>
